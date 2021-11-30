@@ -1,19 +1,13 @@
-//
-//  ViewController.swift
-//  netWorkingAndWeb
-//
-//  Created by Bilal on 1.12.2021.
-//
-
 import UIKit
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
+class ViewController: UIViewController
+{
+    
+    //check branches of the project
+    
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
